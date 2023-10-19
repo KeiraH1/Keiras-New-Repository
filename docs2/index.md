@@ -14,4 +14,4 @@ list
 - ***italtics***
 
 <br> for adding extra space
-<img src="https://example.com/image.jpg" alt="A beautiful landscape" width="300" height="200">
+<img src="[https://example.com/image.jpg](https://urbanblisslife.com/wp-content/uploads/2023/01/Jolibee-Spaghetti-FEATURE.jpg)https://urbanblisslife.com/wp-content/uploads/2023/01/Jolibee-Spaghetti-FEATURE.jpg" alt="A beautiful landscape" width="300" height="200">
